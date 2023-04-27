@@ -1,7 +1,7 @@
-Django==4.0.7
-django-environ==0.9.0
-psycopg2==2.9.3
-djangorestframework==3.13.1
+Django
+django-environ
+psycopg2-binary
+djangorestframework
 
 celery==5.2.7
 django-celery-results==2.4.0
@@ -20,7 +20,7 @@ boto3==1.24.71
 attrs==22.1.0
 
 djangorestframework-simplejwt==5.2.2
-drf-spectacular==0.24.2
+drf-spectacular==0.26.2
 
 django-redis==5.2.0
 Faker==15.1.1
